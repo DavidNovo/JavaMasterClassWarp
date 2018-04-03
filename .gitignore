@@ -22,7 +22,7 @@
 hs_err_pid*
 
 # files specific to IntelliJ
-.idea/
+.idea/*.*
 .idea/workspace.xml
 
 # generated files
